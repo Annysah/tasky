@@ -21,7 +21,7 @@ const AddTodo = ({ onAddTodo, submitted, setSubmitted }) => {
       <form className="flex justify-center mt-10">
         <div className="bg-purple-300 px-4 py-2 rounded-lg w-96">
           <h1 className="text-center mt-4 mb-4 text-2xl text-white font-bold">
-            Add a Todo
+           Add a Todo
           </h1>
           <div className="mt-6 flex space-x-4 m-10 justify-center">
             <input
